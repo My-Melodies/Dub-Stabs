@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/e6f05b59-386c-4dc5-aa4c-db1f47e8819b
 
 ## 𝐒𝐲𝐬𝐭𝐞𝐦 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭𝐬
 
-- **macOS**: 14.0 (Sonoma), 15.0 (Sequoia), or 16.0 (Tahoe).
+- **macOS**: 14.0 (Sonoma), 15.0 (Sequoia) or 16.0 (Tahoe).
 - **Architecture**: Intel & Apple Silicon.
 - **DAW**: Ableton Live 11+, Ableton Live 12+, Logic Pro & Reason with [BlackHole](https://github.com/ExistentialAudio/BlackHole) driver.
 
