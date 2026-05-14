@@ -12,7 +12,7 @@ _<p align="center">Synthesizers for Dub Techno Chords & Stabs. Includes 8 classi
 
 ---
 
-https://github.com/user-attachments/assets/e6f05b59-386c-4dc5-aa4c-db1f47e8819b
+<img width="1440" height="865" alt="Dub Stabs 1 0 1 preview" src="https://github.com/user-attachments/assets/9d9e7bef-1913-46e0-a88d-af1306f0d7ba" />
 
 ---
 
@@ -40,7 +40,7 @@ https://github.com/user-attachments/assets/e6f05b59-386c-4dc5-aa4c-db1f47e8819b
 ## 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧
 
 ### 𝐒𝐭𝐚𝐧𝐝𝐚𝐥𝐨𝐧𝐞
-1. Download the latest [`Dub.Stabs.zip`](https://github.com/DeobfuscateMusic/Dub-Stabs/releases/download/Dub_Stabs_1.0.0/Dub.Stabs.zip).
+1. Download the latest [`Dub.Stabs.zip`](https://github.com/DeobfuscateMusic/Dub-Stabs/releases/download/Dub_Stabs_1.0.1/Dub.Stabs.zip).
 2. Extract & Drag to your `Applications` folder.
 3. Open `Dub Stabs`.
 
