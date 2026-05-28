@@ -44,17 +44,13 @@
 2. Extract & Drag to your `Applications` folder.
 3. Open `Dub Stabs`.
 
-### 𝐀𝐮𝐝𝐢𝐨 𝐔𝐧𝐢𝐭 (𝐀𝐔) (𝐔𝐧𝐝𝐞𝐫 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭)
-1. Download the `Dubstabs.component.zip` plugin.
-2. Copy `Dubstabs.component` to your `Components` folder:
-   - **AU**: `/Library/Audio/Plug-Ins/Components`
-3. Rescan plugins in your DAW and load `Dub Stabs` onto a MIDI track.
+### 𝐀𝐮𝐝𝐢𝐨 𝐔𝐧𝐢𝐭 (𝐀𝐔)
 
-### 𝐕𝐒𝐓𝟑 (𝐔𝐧𝐝𝐞𝐫 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭)
-1. Download the `Dubstabs.vst3.zip` plugin.
-2. Copy `Dubstabs.vst3` to your `VST3` folder:
-   - **VST3**: `/Library/Audio/Plug-Ins/VST3`
-3. Rescan plugins in your DAW and load `Dub Stabs` onto a MIDI track.
+(𝐔𝐧𝐝𝐞𝐫 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭)
+
+### 𝐕𝐒𝐓𝟑 
+
+(𝐔𝐧𝐝𝐞𝐫 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭)
 
 ---
 
