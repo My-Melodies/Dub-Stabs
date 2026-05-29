@@ -40,7 +40,7 @@
 ## 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧
 
 ### 𝐒𝐭𝐚𝐧𝐝𝐚𝐥𝐨𝐧𝐞
-1. Download the latest [`Dub.Stabs`].
+1. Download the latest [`Dub.Stabs`](https://github.com/KouseiMusic/Dub-Stabs/releases/tag/Dub-Stabs-1.0.2).
 2. Extract & Drag to your `Applications` folder.
 3. Open `Dub Stabs`.
 
